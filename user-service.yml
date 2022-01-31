@@ -8,7 +8,7 @@ spring:
 token:
   #  expiration milli-seconed 60 * 60 * 24 * 1000 = one day
   expiration_time: 86400000
-  secret: user_token_dev_changed
+  secret: user_token_user-service
 
 gateway:
   ip: 192.168.219.102

@@ -1,7 +1,7 @@
 token:
   #  expiration milli-seconed 60 * 60 * 24 * 1000 = one day
   expiration_time: 86400000
-  secret: user_token_default_changed
+  secret: '{cipher}AQAwEasJd9VRUaXCLFVqGV+x0n1Y81UAjfCjF5ect3u+mCinFW7Zf6pXN/agAbyWf8dnVWd0XneOMcTSglv/WhOUOtByltn6TGP7MkF0wmUQjvW4w3a6IOkt1gL8UHX+pBaIrUiulM5ndeGZeqKN6On59AbBDvHGzd/domTwvrAT89Me+pA4Crvyb9e4faLwyIWA5PLO/J7xua9eaoiyGWXMHdywSWWut6gzc1FWPOKqnsMHxcJHFbdE/wsBqPYkm5WxQqwoCv+zrkdp3vWJ3s1sWushIC7DKxvacHJdjqierPMrAwsC/32tPVL1cyp9nD2L5zHcenoyWhXrgZA31AlWOyZqtHPuXFqHCbj6g0r452mzmOLlLMEJOo+5Ln03OTs='
 
 gateway:
   ip: 192.168.219.102
